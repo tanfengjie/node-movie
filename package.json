@@ -1,0 +1,23 @@
+{
+  "name": "movie",
+  "version": "0.2.0",
+  "description": "movie list",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tanfengjie/node-movie/movie.git"
+  },
+  "keywords": [
+    "lessonns"
+  ],
+  "author": "",
+  "license": ""
+}
